@@ -42,13 +42,13 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "爱吃大肥鱼",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "鲸鱼做飞机",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://www.chengjiahao.com",
 
 	// 站点描述
 	description:
@@ -56,7 +56,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
+		"爱吃大肥鱼",
 		"Fuwari",
 		"Astro",
 		"ACGN",
