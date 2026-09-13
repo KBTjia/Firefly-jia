@@ -1,5 +1,5 @@
 ---
-title: "JS第3课：函数与递归"
+title: "JS第三课：函数与递归"
 published: 2026-09-12
 updated: 2026-09-12
 description: "文章"
