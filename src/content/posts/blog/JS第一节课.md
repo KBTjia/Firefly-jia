@@ -3,7 +3,7 @@ title: "JS 第一节课：发展史 & ECMA & 编程语言 & JS 相关 & 变量 &
 published: 2026-09-12
 updated: 2026-09-12
 description: "JavaScript 第一课完整笔记：浏览器发展史、ECMA 标准、编译型与解释型语言、JS 三大组成（ECMAScript / DOM / BOM）、单线程与多线程，以及变量与 JS 值。"
-tags: [JavaScript, 前端, ECMAScript, 学习笔记]
+tags: [前端]
 category: JavaScript
 draft: false
 author: jia
